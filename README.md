@@ -9,4 +9,4 @@ Different matroids represent different laboratory rules:
 The optimisation then searches for a partition that performs well in the worst plausible scenario.
 The basic workflow is:
 
-Generate candidates → encode constraints → create uncertainty scenarios → evaluate candidates → partition them → calculate worst-case loss → select the strongest partition → test experimentally → update the model. 
+Generate candidates → encode constraints → create uncertainty scenarios → evaluate candidates → partition them → calculate worst-case loss → select the strongest partition → test experimentally → update the model . 
